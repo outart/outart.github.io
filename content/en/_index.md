@@ -1,6 +1,11 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "OutArt"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "Art for everyone."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+OutArt is a decentralised art gallery start-up providing endless opportunities for independent artists at affordable prices. The OutArt team is committed to a future where art is accessible and affordable to all.
+---
+
+ciao ciao
+
+github pages syntax markdown
