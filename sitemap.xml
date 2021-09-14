@@ -14,13 +14,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-<<<<<<< HEAD:public/sitemap.xml
-=======
-    <loc>https://outart.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
->>>>>>> d34d82b0da42b977622d703629ecf0cd1441eb3d:sitemap.xml
     <loc>https://outart.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
