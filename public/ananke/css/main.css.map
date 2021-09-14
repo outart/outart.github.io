@@ -1,7 +1,11 @@
 {
 	"version": 3,
 	"file": "main.css",
+<<<<<<< HEAD:public/ananke/css/main.css.map
 	"sourceRoot": "C:/Users/feder/Desktop/outart builder",
+=======
+	"sourceRoot": "/Users/chattershuts/Desktop/outart.github.io",
+>>>>>>> d34d82b0da42b977622d703629ecf0cd1441eb3d:ananke/css/main.css.map
 	"sources": [
 		"stdin"
 	],
